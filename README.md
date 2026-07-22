@@ -8,6 +8,8 @@ never rewrites.
 Built to Clief Notes Weekly Comp #9, "The Editor." The brief is quoted verbatim
 in `docs/brief.md`.
 
+https://github.com/user-attachments/assets/8f267c43-1085-482d-b747-81dea4942a7c
+
 ## The problem it solves
 
 A draft written with AI help can be competent everywhere and still not sound
